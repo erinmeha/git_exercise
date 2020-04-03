@@ -1,1 +1,1 @@
-# git_exercise
+# git_terminal_assessment
